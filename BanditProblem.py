@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Epsilon-greedy action value method for solving the k-armed Bandit Problem
-The Multi-armed Bandit Problem is also known as the Multi-Armed Bandit Problem
+Epsilon-greedy action value method for solving the multi-armed bandit problem
+The multi-armed Bandit Problem is also known as the k-armed bandit problem
  
 
 @author: Aleksandar Haber
